@@ -1,0 +1,8 @@
+Potato is a very important vegitable for us. 
+But if you want to buy it in large amount then you can not guess the price of it. 
+So these time AI can help you. This project help you to predict the price of potato.
+But firstly, you have to do market analysis and collect random data. 
+Then you have to input your data in this program .
+And finally it will be give you an idea about the price of potato.
+
+Thank You.
